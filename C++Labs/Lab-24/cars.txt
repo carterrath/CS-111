@@ -1,0 +1,10 @@
+Red TeslaModelX 2020 1 215.3
+Blue FordF-150 2015 0 120.5
+Black FordMustang 2019 0 155
+Black DodgeCharger 1973 0 160
+White HyundaiKarmaRevero 2019 1 130
+Blue ToyotaMirai 2020 1 125
+Red FordThunderbird 1994 0 144
+Beige LexusSC 2004 0 145
+Yellow CheverlotteCorvetteZR1 2019 0 212
+Green LamborghiniAventadorSVJ 2020 0 218

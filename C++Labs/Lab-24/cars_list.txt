@@ -1,0 +1,60 @@
+Color:                           Red
+Model:                   TeslaModelX
+Year:                           2020
+                This car is electric
+Top Speed:                    215.30
+
+Color:                          Blue
+Model:                     FordF-150
+Year:                           2015
+            This car is not electric
+Top Speed:                    120.50
+
+Color:                         Black
+Model:                   FordMustang
+Year:                           2019
+            This car is not electric
+Top Speed:                    155.00
+
+Color:                         Black
+Model:                  DodgeCharger
+Year:                           1973
+            This car is not electric
+Top Speed:                    160.00
+
+Color:                         White
+Model:            HyundaiKarmaRevero
+Year:                           2019
+                This car is electric
+Top Speed:                    130.00
+
+Color:                          Blue
+Model:                   ToyotaMirai
+Year:                           2020
+                This car is electric
+Top Speed:                    125.00
+
+Color:                           Red
+Model:               FordThunderbird
+Year:                           1994
+            This car is not electric
+Top Speed:                    144.00
+
+Color:                         Beige
+Model:                       LexusSC
+Year:                           2004
+            This car is not electric
+Top Speed:                    145.00
+
+Color:                        Yellow
+Model:        CheverlotteCorvetteZR1
+Year:                           2019
+            This car is not electric
+Top Speed:                    212.00
+
+Color:                         Green
+Model:       LamborghiniAventadorSVJ
+Year:                           2020
+            This car is not electric
+Top Speed:                    218.00
+
