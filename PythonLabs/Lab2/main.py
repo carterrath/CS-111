@@ -1,0 +1,13 @@
+number_1 = int(input("Enter an integer"))
+number_2 = int(input("Enter another integer"))
+integers_added = number_1 + number_2
+integers_subtracted = number_1 - number_2
+integers_multiplied = number_1 * number_2
+integers_divided = number_1 / number_2
+quotient = number_1 // number_2
+remainder = number_1 % number_2
+print(number_1,"+",number_2,"=",integers_added)
+print(number_1,"-",number_2,"=",integers_subtracted)
+print(number_1,"*",number_2,"=",integers_multiplied)
+print(number_1,"/",number_2,"=",integers_divided)
+print(number_1, "/",number_2,"=",quotient,"R",remainder)
